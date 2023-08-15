@@ -1,0 +1,21 @@
+{
+  "culture": "ro-RO",
+  "texts": {
+    "Menu:Home": "Acasă",
+    "Welcome": "Bun venit",
+    "LongWelcomeMessage": "Bun venit la aplicaţie. Acesta este un proiect de pornire bazat pe framework-ul ABP. Pentru mai multe informaţii, vizitaţi, visit abp.io.",
+    "Permission:Store": "Store",
+    "Permission:Create": "Create",
+    "Permission:Update": "Update",
+    "Permission:Delete": "Delete",
+    "Menu:Store": "MenuStore",
+    "Store": "Store",
+    "StoreTow": "StoreTow",
+    "StoreThree": "StoreThree",
+    "CreateStore": "CreateStore",
+    "EditStore": "EditStore",
+    "StoreDeletionConfirmationMessage": "Are you sure to delete the store {0}?",
+    "SuccessfullyDeleted": "Successfully deleted",
+    "TableFilter": "TableFilter"
+  }
+}
